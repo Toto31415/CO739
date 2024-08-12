@@ -1,4 +1,4 @@
-### This is my final project 
+### This is my (Oscar Patron Fonseca, id: 20920584) final project 
 Inside the folder MyProject you should be able to find the following 4 files
 1) Zorn.lean (Completed Exercise)
 2) WellOrder.lean (Completed Exercise)
